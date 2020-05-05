@@ -1,2 +1,3 @@
 # hello-world
-My First GitHub Repository
+This is My First GitHub Repository.
+Now I'm writting this file to practice with commits.
